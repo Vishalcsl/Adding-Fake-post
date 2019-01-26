@@ -5,7 +5,7 @@ This project is created with [Create React App](https://github.com/facebook/crea
 ## Build With   
     
 *[React](https://reactjs.org/) - The Frontend framework(library) used  
-*[Redux](https://redux.js.org/) - State Management
+*[Redux](https://redux.js.org/) - State Management   
 *[JSONPlaceholder](https://jsonplaceholder.typicode.com/) - The Rest API used for Fake posts
    
 ## Acknowledgements    
