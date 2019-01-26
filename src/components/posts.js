@@ -25,7 +25,7 @@ class Posts extends Component {
 
 Posts.propTypes = {
   fetchPosts: PropTypes.func.isRequired,
-  posts: PropTpes.array.isRequired
+  posts: PropTypes.array.isRequired
 };
 
 const mapStateToProps = state => ({
